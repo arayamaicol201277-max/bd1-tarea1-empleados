@@ -43,6 +43,8 @@ INSERT dbo.Empleado (Nombre, Salario) VALUES ('Jorge Elizondo', 270500.00);
 INSERT dbo.Empleado (Nombre, Salario) VALUES ('Monica Ugalde', 215000.00);
 GO
 
+
+
 --	   -----
 --	  -     -
 --	 - O   O -
@@ -51,8 +53,5 @@ GO
 --	  -     -
 --	   -----
 
-------------------------------------------------------------------------------------------------
---CORRER ESTO DESPUES DE CARGAR LOS DATOS
---SELECT COUNT(*) AS TotalEmpleados FROM dbo.Empleado;
---SELECT * FROM dbo.Empleado ORDER BY Nombre ASC;
---GO
+
+
