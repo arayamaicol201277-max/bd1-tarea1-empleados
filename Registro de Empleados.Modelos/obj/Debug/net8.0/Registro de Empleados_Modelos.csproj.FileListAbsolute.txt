@@ -1,0 +1,12 @@
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\bin\Debug\net8.0\Registro de Empleados_Modelos.deps.json
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\bin\Debug\net8.0\Registro de Empleados_Modelos.dll
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\bin\Debug\net8.0\Registro de Empleados_Modelos.pdb
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\Registro de Empleados_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\Registro de Empleados_Modelos.AssemblyInfoInputs.cache
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\Registro de Empleados_Modelos.AssemblyInfo.cs
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\Registro de Empleados_Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\Registro de Empleados_Modelos.sourcelink.json
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\Registro de Empleados_Modelos.dll
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\refint\Registro de Empleados_Modelos.dll
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\Registro de Empleados_Modelos.pdb
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Modelos\obj\Debug\net8.0\ref\Registro de Empleados_Modelos.dll

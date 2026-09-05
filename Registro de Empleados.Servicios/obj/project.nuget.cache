@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G17/MVZtGxU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados.Servicios\\Registro de Empleados_Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jean\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512"
+  ],
+  "logs": []
+}

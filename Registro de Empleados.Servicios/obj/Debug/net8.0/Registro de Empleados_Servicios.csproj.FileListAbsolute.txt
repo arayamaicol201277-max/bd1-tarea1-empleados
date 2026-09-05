@@ -1,0 +1,16 @@
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\bin\Debug\net8.0\Registro de Empleados_Servicios.deps.json
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\bin\Debug\net8.0\Registro de Empleados_Servicios.dll
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\bin\Debug\net8.0\Registro de Empleados_Servicios.pdb
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\bin\Debug\net8.0\Registro de Empleados_Modelos.dll
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\bin\Debug\net8.0\Registro de Empleados_Modelos.pdb
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.csproj.AssemblyReference.cache
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.AssemblyInfoInputs.cache
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.AssemblyInfo.cs
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.sourcelink.json
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro.614DA071.Up2Date
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.dll
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\refint\Registro de Empleados_Servicios.dll
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\Registro de Empleados_Servicios.pdb
+C:\Users\Jean\source\repos\Registro de Empleados\Registro de Empleados.Servicios\obj\Debug\net8.0\ref\Registro de Empleados_Servicios.dll

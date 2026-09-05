@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|c:\\users\\jean\\source\\repos\\registro de empleados\\registro de empleados\\registro de empleados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|solutionrelative:registro de empleados\\registro de empleados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|c:\\users\\jean\\source\\repos\\registro de empleados\\registro de empleados\\pages\\manejo de empleados\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|solutionrelative:registro de empleados\\pages\\manejo de empleados\\insertar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|c:\\users\\jean\\source\\repos\\registro de empleados\\registro de empleados\\pages\\manejo de empleados\\empleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|solutionrelative:registro de empleados\\pages\\manejo de empleados\\empleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|c:\\users\\jean\\source\\repos\\registro de empleados\\registro de empleados\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|solutionrelative:registro de empleados\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|c:\\users\\jean\\source\\repos\\registro de empleados\\registro de empleados\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|solutionrelative:registro de empleados\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09726E1C-1610-4A43-96B2-3403340CC41F}|Registro de Empleados.Modelos\\Registro de Empleados.Modelos.csproj|c:\\users\\jean\\source\\repos\\registro de empleados\\registro de empleados.modelos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09726E1C-1610-4A43-96B2-3403340CC41F}|Registro de Empleados.Modelos\\Registro de Empleados.Modelos.csproj|solutionrelative:registro de empleados.modelos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|c:\\users\\jean\\source\\repos\\registro de empleados\\registro de empleados\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1FD219-3DF9-4F8A-9F18-D54F56542ADF}|Registro de Empleados\\Registro de Empleados.csproj|solutionrelative:registro de empleados\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\obj\\Debug\\net8.0\\staticwebassets.removed.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Registro de Empleados\\obj\\Debug\\net8.0\\staticwebassets.removed.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insertar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Manejo de Empleados\\Insertar.cshtml",
+              "RelativeDocumentMoniker": "Registro de Empleados\\Pages\\Manejo de Empleados\\Insertar.cshtml",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Manejo de Empleados\\Insertar.cshtml",
+              "RelativeToolTip": "Registro de Empleados\\Pages\\Manejo de Empleados\\Insertar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T16:38:16.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Registro de Empleados\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Registro de Empleados\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:31:49.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Registro de Empleados\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Registro de Empleados\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T16:31:45.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados.Modelos\\Empleado.cs",
+              "RelativeDocumentMoniker": "Registro de Empleados.Modelos\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados.Modelos\\Empleado.cs",
+              "RelativeToolTip": "Registro de Empleados.Modelos\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T16:25:14.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "staticwebassets.removed.txt",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\obj\\Debug\\net8.0\\staticwebassets.removed.txt",
+              "RelativeDocumentMoniker": "Registro de Empleados\\obj\\Debug\\net8.0\\staticwebassets.removed.txt",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\obj\\Debug\\net8.0\\staticwebassets.removed.txt",
+              "RelativeToolTip": "Registro de Empleados\\obj\\Debug\\net8.0\\staticwebassets.removed.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-02T03:18:01.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro de Empleados.csproj",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Registro de Empleados.csproj",
+              "RelativeDocumentMoniker": "Registro de Empleados\\Registro de Empleados.csproj",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Registro de Empleados.csproj*",
+              "RelativeToolTip": "Registro de Empleados\\Registro de Empleados.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-02T02:53:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Manejo de Empleados\\Empleados.cshtml",
+              "RelativeDocumentMoniker": "Registro de Empleados\\Pages\\Manejo de Empleados\\Empleados.cshtml",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Manejo de Empleados\\Empleados.cshtml",
+              "RelativeToolTip": "Registro de Empleados\\Pages\\Manejo de Empleados\\Empleados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T02:52:52.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Registro de Empleados\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jean\\source\\repos\\Registro de Empleados\\Registro de Empleados\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Registro de Empleados\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T02:52:08.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
