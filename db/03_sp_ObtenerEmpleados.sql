@@ -7,7 +7,10 @@ AS
 BEGIN
     SET NOCOUNT ON;
 
-    SELECT *
+    SELECT
+        id,
+        Nombre,
+        Salario
     FROM dbo.Empleado
     ORDER BY Nombre ASC;
 END

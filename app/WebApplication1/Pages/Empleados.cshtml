@@ -1,0 +1,34 @@
+﻿@page
+@model WebApplication1.Pages.EmpleadosModel
+@{
+    ViewData["Title"] = "Desglose de Empleados";
+}
+
+<h1>Empleados</h1>
+
+@if (TempData["MensajeExito"] != null)
+{
+    <div class="alert alert-success">@TempData["MensajeExito"]</div>
+}
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Salario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model.Empleados)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Nombre</td>
+                <td>@emp.Salario.ToString("N2")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="Insertar" class="btn btn-primary">Insertar Empleado</a>
